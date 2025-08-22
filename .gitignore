@@ -1,0 +1,26 @@
+# Python cache ve bytecode dosyaları
+__pycache__/
+*.py[cod]
+
+# PyInstaller build dosyaları
+build/
+dist/
+*.spec
+
+# IDE/Editor dosyaları
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Windows geçici dosyaları
+Thumbs.db
+*.log
+*.tmp
+
+# Mac geçici dosyaları
+.DS_Store
+
+# Python paketleri
+*.egg-info/
+.env/
+venv/
