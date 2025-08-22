@@ -1,0 +1,53 @@
+Kütüphane Uygulaması - Lisans
+
+Telif Hakkı (c) 2025 Zion
+
+Bu yazılım açık kaynak olarak sunulmaktadır. Herkes ücretsiz olarak kullanabilir, geliştirebilir ve paylaşabilir. Ancak aşağıdaki şartlar geçerlidir:
+
+1. Bu yazılımın ticari olarak satılması yasaktır.
+2. Uygulamanın orijinal geliştiricisi (Zion) açıkça belirtilmelidir.
+3. Uygulama veya türevleri, ücretsiz olarak dağıtılabilir ve kullanılabilir.
+4. Yazılım "OLDUĞU GİBİ" sunulmaktadır; yazar herhangi bir sorumluluk kabul etmez.
+
+Library Application - License
+
+Copyright (c) 2025 Zion
+
+This software is provided as open source. Anyone can use, develop, and share it free of charge. However, the following conditions apply:
+
+1. Commercial sale of this software is prohibited.
+2. The original developer of the application (Zion) must be clearly credited.
+3. The application or its derivatives may be distributed and used free of charge.
+4. The software is provided “AS IS”; the author assumes no liability.
+
+
+- Başlat menüsünden veya masaüstü simgesinden çalıştırabilirsiniz.
+- Tüm kitap verileri ve barkod/kapak dosyaları program klasörü içinde saklanır.
+- Herhangi bir sorun yaşarsanız GitHub sayfamdan destek alabilirsiniz:
+  https://github.com/hkannkorkmaz
+- Uygulama ücretsizdir; başkaları tarafından ticari amaçla kullanılamaz.
+
+
+
+- You can run it from the Start menu or desktop icon.
+- All book data and barcode/cover files are stored in the program folder.
+- If you encounter any problems, you can get support from my GitHub page:
+https://github.com/hkannkorkmaz
+- The application is free; it cannot be used for commercial purposes by others.
+
+
+Geliştirici: Zion
+Kurulum notları:
+
+- Program, kendi klasörünü otomatik olarak oluşturacaktır.
+- Barkodlar, kapaklar ve önbellek dosyaları program klasörü içinde saklanacaktır.
+- Kurulum sırasında programın çalıştırılmasını isteyip istemediğinizi seçebilirsiniz.
+- Bu uygulama ücretsizdir ve ticari amaçla kullanılamaz.
+
+Developer: Zion
+Installation notes:
+
+- The program will automatically create its own folder.
+- Barcodes, covers, and cache files will be stored in the program folder.
+- During installation, you can choose whether you want to run the program.
+- This application is free and cannot be used for commercial purposes.
